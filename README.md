@@ -43,9 +43,9 @@ When you open Tsuru, the user will be directed to the Card Set Screen. In this s
 
 ## What makes Tsuru effective?
 
-### Menmonics
+### Menmonics & SRS
 <img align="left" src="Images/Mnemonics.png" width="150" height="150">
-Tsuru allows you to add mnemonics to every vocabulary word. Waste less time! Memorize and recall way more. Studies have proven the effectiveness of menmonics, especially for foreign-language acquisition. 
+Tsuru allows you to add mnemonics to every vocabulary word. Waste less time! Memorize and recall way more. Studies have proven the effectiveness of menmonics, especially for foreign-language acquisition. Combine this with Tsuru's spaced repetition system and you should be learning in no time.
 
 </br>
 </br>
@@ -65,20 +65,20 @@ Tsuru helps you practice Kanji by writing it down, and showing you the stroke or
 </br>
 </br>
 
-### Premade Sets
-<img align="left" src="Images/Premade Sets.png" width="150" height="150">
-Tsuru includes premade sets to help you jump right into learning. JPTL flashcards, Genki flashcards, and other Japanese learning courses will be avalible without any inital setup. Tsuru also allows users to create their own sets or add flashcards to already existing ones!
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 ### Levels
 <img align="left" src="Images/Levels.png" width="150" height="150">
 Tsuru utilizes a level system to help users stay motivated with learning Japanese! Tsuru includes five levels from novice to master. Level up and compete with freinds!
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+### Premade Sets
+<img align="left" src="Images/Premade Sets.png" width="150" height="150">
+Tsuru includes premade sets to help you jump right into learning. JPTL flashcards, Genki flashcards, and other Japanese learning courses will be avalible without any inital setup. Tsuru also allows users to create their own sets or add flashcards to already existing ones!
 
 </br>
 </br>
