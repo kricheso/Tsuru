@@ -5,6 +5,42 @@
 
 Tsuru is an in-development iPhone/iPad application that will become avaliable to the App Store for free. The app makes learning Japanese extremely easy and efficient. Tsuru uses a SRS algorithm called [Leitner's System](https://en.wikipedia.org/wiki/Leitner_system) to test you only on the Japanese vocabulary that you are about to forget. This method drastically optimizes studying by helping learners skip the material he or she can already reliably recall. Other applications like Anki, Cleverdeck, and Flashcards Deluxe successfully utilize this method. However, these applications are not gear towards Japanese and does not have the additional features that could enchance learning. Tsuru specializes in Kanji and will test you on your handwritting along with your vocabulary. In addition, Tsuru is fun and will keep learners motivated with the level system that is implementent in the app!
 
+## App Overview
+
+### Splash Screen
+<img align="left" src="Images/Splash Screen.png" height="300">
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+### Card Set Screen
+<img align="left" src="Images/Dock.png" height="300">
+When you open Tsuru, the user will be directed to the Card Set Screen. In this screen, the user can see which set he or she is currently studying. The user can switch from sets by tapping on the Settings button. To save and export the data, the user can tap on the action button on the top right hand corner. Send your data to an email address, through air drop, or simply through another Tsuru app. The graph represents how many avalible review questions are there. Since Tsuru is a SRS application, questions only become avavlible after a certain amount of time. Tap on the Review button to start a review session. The Lesson button will introduce users to new and unfamilair words. After the user completes the lessons, he or she will view them in the reviews. The Card Deck button will bring you to a screen with all the cards in the current set. And the Search button will search for a word or phrase in the currect deck.
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## What makes Tsuru effective?
 
 ### Menmonics
@@ -44,42 +80,6 @@ Tsuru includes premade sets to help you jump right into learning. JPTL flashcard
 <img align="left" src="Images/Levels.png" width="150" height="150">
 Tsuru utilizes a level system to help users stay motivated with learning Japanese! Tsuru includes five levels from novice to master. Level up and compete with freinds!
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-## App Overview
-
-### Splash Screen
-<img align="left" src="Images/Splash Screen.png" height="300">
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-### Card Set Screen
-<img align="left" src="Images/Dock.png" height="300">
-When you open Tsuru, the user will be directed to the Card Set Screen. In this screen, the user can see which set he or she is currently studying. The user can switch from sets by tapping on the Settings button. To save and export the data, the user can tap on the action button on the top right hand corner. Send your data to an email address, through air drop, or simply through another Tsuru app. The graph represents how many avalible review questions are there. Since Tsuru is a SRS application, questions only become avavlible after a certain amount of time. Tap on the Review button to start a review session. The Lesson button will introduce users to new and unfamilair words. After the user completes the lessons, he or she will view them in the reviews. The Card Deck button will bring you to a screen with all the cards in the current set. And the Search button will search for a word or phrase in the currect deck.
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
