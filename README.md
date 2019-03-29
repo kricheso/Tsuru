@@ -29,17 +29,6 @@ Tsuru is an in-development iPhone/iPad application that will become available to
 <img align="left" src="Images/Dock.png" height="300">
 When you open Tsuru, the user will be directed to the Card Set Screen. In this screen, the user can see which set he or she is currently studying. The user can switch from sets by tapping on the Settings Button. To save and export the data, the user can tap on the Action Button on the top right-hand corner. He or she can then send the data to an email address, through air drop, or simply through another Tsuru app. The graph on the screen represents displays how many available review questions there will be during a certain time. Since Tsuru is an SRS application, questions only become available after a certain amount of time. Tap the Lesson Button to introduce users to new and unfamiliar words. After the user completes the lessons, he or she will view them in the reviews. The Card Deck Button will bring you to a screen with all the cards in the current set. And the Search Button will search for a word or phrase in the current deck. 
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 ### All Cards Screen
 <img align="left" src="Images/All Cards.png" height="300">
 When you tap on the Card Deck Button on the previous screen, you will be brought to the All Cards screen. This screen displays all the cards in the current deck ordered by the user’s level. Each card displays the Japanese vocabulary on the left side. If the Japanese vocabulary has kanji, the right side will provide the furigana reading. If the word does not have kanji, the right side will display the romaji reading. Each card has the definition on the right side as well. Press the add Button on the top right corner to add a new card to the deck. Search for words quickly by searching it in the search bar. Once you found the word you would like to see more information about, tap on it and the app will bring you to the definition page.  
