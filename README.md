@@ -29,13 +29,14 @@ Tsuru is an in-development iPhone/iPad application that will become available to
 <img align="left" src="Images/Dock.png" height="300">
 When you open Tsuru, the user will be directed to the Card Set Screen. In this screen, the user can see which set he or she is currently studying. The user can switch from sets by tapping on the Settings Button. To save and export the data, the user can tap on the Action Button on the top right-hand corner. He or she can then send the data to an email address, through air drop, or simply through another Tsuru app. The graph on the screen represents displays how many available review questions there will be during a certain time. Since Tsuru is an SRS application, questions only become available after a certain amount of time. Tap the Lesson Button to introduce users to new and unfamiliar words. After the user completes the lessons, he or she will view them in the reviews. The Card Deck Button will bring you to a screen with all the cards in the current set. And the Search Button will search for a word or phrase in the current deck. 
 
+</br>
+</br>
+</br>
+
 ### All Cards Screen
 <img align="left" src="Images/All Cards.png" height="300">
 When you tap on the Card Deck Button on the previous screen, you will be brought to the All Cards screen. This screen displays all the cards in the current deck ordered by the user’s level. Each card displays the Japanese vocabulary on the left side. If the Japanese vocabulary has kanji, the right side will provide the furigana reading. If the word does not have kanji, the right side will display the romaji reading. Each card has the definition on the right side as well. Press the add Button on the top right corner to add a new card to the deck. Search for words quickly by searching it in the search bar. Once you found the word you would like to see more information about, tap on it and the app will bring you to the definition page.  
 
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -58,17 +59,11 @@ This screen contains the information about the selected card. You can also updat
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-
 
 ### Quiz Screen (English Card)
 <img align="left" src="Images/English to Japanese.png" height="300">
 If the user backs out of the definition screen and goes back to press the Review Button on the main screen, he or she will be presented with the Quiz Screen. The quiz will show multiple cards and will prompt the user to input the answer. For English cards, the user will be displayed a writing board. The user will write the answer and the machine learning algorithm will convert the characters to text. Once the user taps the Next Button, he or she will be shown a green color for a correct answer and a red color for an incorrect answer. The user can can review stroke order, meaning, or readings or press the next Button again to go to the next card! 
 
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -91,9 +86,6 @@ Half the time, the card will display in Japanese. When this happens, an English 
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
 
 ## What makes Tsuru effective?
 
@@ -101,7 +93,6 @@ Half the time, the card will display in Japanese. When this happens, an English 
 <img align="left" src="Images/Mnemonics.png" width="150" height="150">
 Tsuru allows you to add mnemonics to every vocabulary word. Waste less time! Memorize and recall way more. Studies have proven the effectiveness of mnemonics, especially for foreign-language acquisition. Combine this with Tsuru's spaced repetition system and you should be learning in no time.
 
-</br>
 </br>
 </br>
 </br>
@@ -116,8 +107,6 @@ Tsuru helps you practice Kanji by writing it down and showing you the stroke ord
 </br>
 </br>
 </br>
-</br>
-</br>
 
 ### Levels
 <img align="left" src="Images/Levels.png" width="150" height="150">
@@ -127,15 +116,11 @@ Tsuru utilizes a level system to help users stay motivated with learning Japanes
 </br>
 </br>
 </br>
-</br>
-</br>
 
 ### Premade Sets
 <img align="left" src="Images/Premade Sets.png" width="150" height="150">
 Tsuru includes premade sets to help you jump right into learning. JPTL flashcards, Genki flashcards, and other Japanese learning courses will be available without any initial setup. Tsuru also allows users to create their own sets or add flashcards to already existing ones!
 
-</br>
-</br>
 </br>
 </br>
 </br>
