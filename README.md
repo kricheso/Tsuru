@@ -9,8 +9,8 @@ Tsuru is an in-development iPhone/iPad application that will become available to
 
 ### Splash Screen
 <img align="left" src="Images/Splash Screen.png" height="300">
+Tsuru's Splash Screen.
 
-</br>
 </br>
 </br>
 </br>
@@ -76,6 +76,7 @@ If the user backs out of the definition screen and goes back to press the Review
 <img align="left" src="Images/Japanese to English.png" height="300">
 Half the time, the card will display in Japanese. When this happens, an English keyboard will appear. Type the answer and click the Next Button. As mentioned before, you can review the material or just to move on to the next card.
 
+</br>
 </br>
 </br>
 </br>
