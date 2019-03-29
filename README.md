@@ -32,6 +32,8 @@ When you open Tsuru, the user will be directed to the Card Set Screen. In this s
 </br>
 </br>
 </br>
+</br>
+</br>
 
 ### All Cards Screen
 <img align="left" src="Images/All Cards.png" height="300">
@@ -44,14 +46,11 @@ When you tap on the Card Deck Button on the previous screen, you will be brought
 </br>
 </br>
 </br>
-</br>
 
 ### Definition Screen
 <img align="left" src="Images/Definition.png" height="300">
 This screen contains the information about the selected card. You can also update any information about the card here. In the navigation bar, the Japanese vocabulary term will be the title. The meanings will be displayed below that inside a white box. Since vocabulary can have multiple meanings, Tsuru allows the user to save multiple meanings! The furigana reading is also displayed if the word has kanji. If it does not have kanji, this section will be hidden. The Romaji reading is next along with the part of speech. The mnemonic section is where a helpful mnemonic will be to help users remember the word easier. Lastly, the notes section will allow users to write any additional notes about the card. 
 
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -86,6 +85,8 @@ Half the time, the card will display in Japanese. When this happens, an English 
 </br>
 </br>
 </br>
+</br>
+</br>
 
 ## What makes Tsuru effective?
 
@@ -93,7 +94,6 @@ Half the time, the card will display in Japanese. When this happens, an English 
 <img align="left" src="Images/Mnemonics.png" width="150" height="150">
 Tsuru allows you to add mnemonics to every vocabulary word. Waste less time! Memorize and recall way more. Studies have proven the effectiveness of mnemonics, especially for foreign-language acquisition. Combine this with Tsuru's spaced repetition system and you should be learning in no time.
 
-</br>
 </br>
 </br>
 </br>
@@ -116,11 +116,14 @@ Tsuru utilizes a level system to help users stay motivated with learning Japanes
 </br>
 </br>
 </br>
+</br>
+</br>
 
 ### Premade Sets
 <img align="left" src="Images/Premade Sets.png" width="150" height="150">
 Tsuru includes premade sets to help you jump right into learning. JPTL flashcards, Genki flashcards, and other Japanese learning courses will be available without any initial setup. Tsuru also allows users to create their own sets or add flashcards to already existing ones!
 
+</br>
 </br>
 </br>
 </br>
