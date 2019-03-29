@@ -24,6 +24,7 @@ Tsuru's Splash Screen.
 </br>
 </br>
 </br>
+</br>
 
 ### Card Set Screen
 <img align="left" src="Images/Dock.png" height="300">
