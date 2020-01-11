@@ -73,9 +73,9 @@ If the user backs out of the definition screen and goes back to press the Review
 </br>
 </br>
 
-### Quiz Screen (Japanese Card)
+### Opitional Quiz Screen (Japanese Card)
 <img align="left" src="Images/Japanese to English.png" height="300">
-Half the time, the card will display in Japanese. When this happens, an English keyboard will appear. Type the answer and click the Next Button. As mentioned before, you can review the material or just to move on to the next card.
+If the user would like be quizzed on Japanese cards, he or she can select an option to make half of the cards display in Japanese. When this happens, an English keyboard will appear. Type the answer and click the Next Button. As mentioned before, you can review the material or just to move on to the next card.
 
 </br>
 </br>
